@@ -52,17 +52,16 @@ Training Loss and Accuracy Plot <br/>
 
 ## Outputs
 Individuals with masks on <br/>
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Flora.png=250x250)
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Marriane.png=250x250)<br/>
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Flora.png =250x250)
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Marriane.png =250x250)<br/>
 
 Individuals with no masks <br/>
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Hugo.png=250x250)
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Christian.png=250x250)<br/>
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Hugo.png =250x250)
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Christian.png =250x250)<br/>
 
 Multiple individuals with masks on <br/>
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Christian 2.png=250x250)<br/>
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Christian 2.png =250x250)<br/>
 
 Multiple individuals <br/>
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/People 1.png=250x250)
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/People 2.png=250x250)
-<img src="Pictures/People 1.png" width="200">
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/People 1.png =250x250)
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/People 2.png =250x250)
