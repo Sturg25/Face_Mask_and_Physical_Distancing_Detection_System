@@ -41,7 +41,7 @@ After downloading CUDA 10.1, add the folder `C:\Program Files\NVIDIA GPU Computi
 6. Download the Yolo Weights which is a pre-trained model to detect social distancing (https://pjreddie.com/media/files/yolov3.weights). From the `src` folder, create a folder named `yolo-coco` and paste the downloaded `yolov3.weights` file inside
 
 ## Running the Software
-Simply run the `main.py` in the Spyder IDE.
+Simply run the `main.py` in the `src`folder using Spyder IDE.
 
 ### Training Results
 Face Mask Model Training Evaluation <br/>
