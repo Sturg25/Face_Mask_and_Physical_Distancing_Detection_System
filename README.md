@@ -65,4 +65,4 @@ Multiple individuals with masks on <br/>
 Multiple individuals <br/>
 ![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/People 1.png =250x250)
 ![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/People 2.png =250x250)
-<img src="pictures/People 1.png" width="300"/>
+<img src="pictures/People 1.png" width="200"/>
