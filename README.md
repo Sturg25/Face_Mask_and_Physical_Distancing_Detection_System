@@ -42,6 +42,17 @@ After downloading CUDA 10.1, add the folder `C:\Program Files\NVIDIA GPU Computi
 Simply run the `main.py` in the Spyder IDE.
 
 ## Outputs
-•People with Masks on <br/>
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Flora.PNG?raw=true)
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Marriane.PNG?raw=true)
+•Individuals with masks on <br/>
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Flora.png?raw=true)
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Marriane.png?raw=true)
+
+•Individuals with no masks <br/>
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Hugo.png?raw=true)
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Christian.png?raw=true)
+
+•Multiple individuals with masks on <br/>
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Christian 2.png?raw=true)
+
+•Multiple individuals <br/>
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/People 1.png?raw=true)
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/People 2.png?raw=true)
