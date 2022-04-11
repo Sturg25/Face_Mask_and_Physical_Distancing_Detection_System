@@ -45,24 +45,23 @@ Simply run the `main.py` in the Spyder IDE.
 
 ### Training Results
 Face Mask Model Training Evaluation <br/>
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Face_Mask_Model_Training_Evaluation.png?raw=true) <br/>
+<img src="pictures/Face_Mask_Model_Training_Evaluation.png" width="400"/> <br/>
 
 Training Loss and Accuracy Plot <br/>
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Training_Loss_and_Accuracy_Plot.png?raw=true) <br/>
+<img src="pictures/Training_Loss_and_Accuracy_Plot.png" width="400"/> <br/>
 
 ## Outputs
 Individuals with masks on <br/>
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Flora.png =250x250)
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Marriane.png =250x250)<br/>
+<img src="pictures/Flora.png" width="500"/>
+<img src="pictures/Marriane.png" width="500"/>  <br/>
 
 Individuals with no masks <br/>
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Hugo.png =250x250)
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Christian.png =250x250)<br/>
+<img src="pictures/Hugo.png" width="500"/>
+<img src="pictures/Christian.png" width="500"/> <br/>
 
 Multiple individuals with masks on <br/>
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Christian 2.png =250x250)<br/>
+<img src="pictures/Christian 2.png" width="500"/>  <br/>
 
 Multiple individuals <br/>
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/People 1.png =250x250)
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/People 2.png =250x250)
-<img src="pictures/People 1.png" width="200"/>
+<img src="pictures/People 1.png" width="500"/>
+<img src="pictures/People 2.png" width="500"/>
