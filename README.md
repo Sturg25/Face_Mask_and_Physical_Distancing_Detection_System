@@ -5,7 +5,7 @@ A Thesis software that uses Computer Vision to detect individuals who are not we
 Face Mask and Physical Distancing Detection System detects individuals who are not following health protocols such as improper wearing of face masks and not following physical distancing
 
 #### Motivation
-This project is developed by the computer science students from the College of Information and Communications Technology in West Visayas State University as a means to aid the prevention the transmission of COVID-19. 
+This project is developed by the computer science students from the College of Information and Communications Technology in West Visayas State University as a means to aid the prevention of the transmission of COVID-19. 
 
 
 ## System Requirements
