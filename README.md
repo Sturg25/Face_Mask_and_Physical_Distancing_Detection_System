@@ -43,25 +43,25 @@ After downloading CUDA 10.1, add the folder `C:\Program Files\NVIDIA GPU Computi
 ## Running the Software
 Simply run the `main.py` in the Spyder IDE.
 
-##### Training Results
-•Face Mask Model Training Evaluation <br/>
+### Training Results
+Face Mask Model Training Evaluation <br/>
 ![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Face_Mask_Model_Training_Evaluation.png?raw=true) <br/>
 
 Training Loss and Accuracy Plot <br/>
 ![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Training_Loss_and_Accuracy_Plot.png?raw=true) <br/>
 
 ## Outputs
-•Individuals with masks on <br/>
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Flora.png?raw=true)
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Marriane.png?raw=true)<br/>
+Individuals with masks on <br/>
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Flora.png=250x250)
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Marriane.png=250x250)<br/>
 
-•Individuals with no masks <br/>
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Hugo.png?raw=true)
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Christian.png?raw=true)<br/>
+Individuals with no masks <br/>
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Hugo.png=250x250)
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Christian.png=250x250)<br/>
 
-•Multiple individuals with masks on <br/>
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Christian 2.png?raw=true)<br/>
+Multiple individuals with masks on <br/>
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/Christian 2.png=250x250)<br/>
 
-•Multiple individuals <br/>
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/People 1.png?raw=true)
-![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/People 2.png?raw=true)
+Multiple individuals <br/>
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/People 1.png=250x250)
+![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/People 2.png=250x250)
