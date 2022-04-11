@@ -10,17 +10,17 @@ This project is developed by the computer science students from the College of I
 
 ## System Requirements
 ##### Software
-•	Anaconda for Spyder IDE
-•	Python 3.8
-•	TensorFlow 2.3.0
-•	GPU Drivers
+•	Anaconda for Spyder IDE  <br/>
+•	Python 3.8  <br/>
+•	TensorFlow 2.3.0  <br/>
+•	GPU Drivers  <br/>
 1.	Nvidia CUDA 10.1
 2.	cuDNN SDK 8.0.4
 
 #### Hardware
-•	Operating System (Windows, Mac, Linux)
-•	Nvidia GPU with minimum 2GB VRAM
-•	Camera (Webcam, CCTV, Mobile Phone Client)
+•	Operating System (Windows, Mac, Linux)  <br/>
+•	Nvidia GPU with minimum 2GB VRAM  <br/>
+•	Camera (Webcam, CCTV, Mobile Phone Client)  <br/>
 
 ## Installation 
 1.	Download and install Anaconda Software which includes Spyder for the IDE and make sure add Anaconda to the PATH environment variable during the installation.
