@@ -27,7 +27,7 @@ This project is developed by the computer science students from the College of I
 
 2.	Once installed, create an environment to be used for this project along with Python 3.8 by opening Anaconda Prompt and type `conda create –name fmpdd python=3.8` where FMPDD stands for Face Mask and Physical Distancing Detection. 
 
-3.	Then download the project software in this repository. This repository includes the necessary files for the project software to operate such as datasets for the training of the face mask detection model and also the pre-trained Yolo Weights (V3) model for the physical distancing algorithm to work.
+3.	Then download the project software in this repository. This repository includes the necessary files for the project software to operate and also the datasets for the training of the face mask detection model.
 
 4.	Once the project software is downloaded and extracted, set the current environment to FMPDD by using the command `conda activate fmpdd` and proceed to install all the required libraries in `requirement.txt` by using the command `pip install -r requirement.txt` inside the project’s directory using Anaconda Prompt.
 
