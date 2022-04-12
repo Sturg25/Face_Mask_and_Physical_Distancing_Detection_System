@@ -65,3 +65,11 @@ Multiple individuals with masks on <br/>
 Multiple individuals <br/>
 <img src="pictures/People 1.png" width="500"/>
 <img src="pictures/People 2.png" width="500"/>
+
+
+## Developed by
+
+#### 1. ***Hugo Leroy D. Chavez***
+#### 2. ***Flora May D. Gicanal***
+#### 3. ***Christian T. Sarabia***
+#### 1. ***Marianne Therese E. Tunggak***
