@@ -29,7 +29,7 @@ This project is developed by the computer science students from the College of I
 
 3.	Then download the project software in this repository. This repository includes the necessary files for the project software to operate and also the datasets for the training of the face mask detection model.
 
-4.	Once the project software is downloaded and extracted, set the current environment to FMPDD by using the command `conda activate fmpdd` and proceed to install all the required libraries in `requirement.txt` by using the command `pip install -r requirement.txt` inside the project’s directory using Anaconda Prompt.
+4.	Once the project software is downloaded and extracted, set the current environment to FMPDD by using the command `conda activate fmpdd` and proceed to install all the required libraries in `requirements.txt` by using the command `pip install -r requirement.txt` inside the project’s directory using Anaconda Prompt.
 
 5.	Download and install the specified GPU drivers;
 •	Nvidia CUDA 10.1:
@@ -38,7 +38,7 @@ This project is developed by the computer science students from the College of I
 After downloading CUDA 10.1, add the folder `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1` as a system variable as shown in the picture below. <br/>
 ![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/PATH.PNG?raw=true)
 
-6. Download the Yolo Weights which is a pre-trained model to detect social distancing (https://pjreddie.com/media/files/yolov3.weights). From the `src` folder, create a folder named `yolo-coco` and paste the downloaded `yolov3.weights` file inside
+6. Download the Yolo Weights which is a pre-trained model to detect social distancing (https://pjreddie.com/media/files/yolov3.weights). From the `src` folder, find the folder named `yolo-coco` and paste the downloaded `yolov3.weights` file inside
 
 ## Running the Software
 Simply run the `main.py` in the `src`folder using Spyder IDE.
