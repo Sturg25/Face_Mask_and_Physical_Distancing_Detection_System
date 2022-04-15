@@ -12,4 +12,4 @@ opencv-python==4.4.0.44
 playsound==1.2.2
 win10toast==0.9
 pygame==2.1.2
-
+plyer==2.0.0
