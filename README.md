@@ -35,7 +35,7 @@ This project is developed by the computer science students from the College of I
 <br /> •	Nvidia CUDA 10.1:
 (https://developer.nvidia.com/cuda-10.1-download-archive-base)
 <br /> •	cuDNN SDK 8.0.4: (This requires to sign up an account to access the download link-https://developer.nvidia.com/cudnn-download-survey)
-After downloading CUDA 10.1, add the folder `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1` as a system variable as shown in the picture below. <br/>
+<br /> After downloading CUDA 10.1, add the folder `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1` as a system variable as shown in the picture below. <br/>
 ![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/PATH.PNG?raw=true)
 
 6. Download the Yolo Weights which is a pre-trained model to detect social distancing (https://pjreddie.com/media/files/yolov3.weights). From the `src` folder, find the folder named `yolo-coco` and paste the downloaded `yolov3.weights` file inside
