@@ -32,9 +32,9 @@ This project is developed by the computer science students from the College of I
 4.	Once the project software is downloaded and extracted, set the current environment to FMPDD by using the command `conda activate fmpdd` and proceed to install all the required libraries in `requirements.txt` by using the command `pip install -r requirements.txt` inside the project’s directory using Anaconda Prompt.
 
 5.	Download and install the specified GPU drivers;
-•	Nvidia CUDA 10.1:
+<br /> •	Nvidia CUDA 10.1:
 (https://developer.nvidia.com/cuda-10.1-download-archive-base)
-•	cuDNN SDK 8.0.4: (This requires to sign up an account to access the download link-https://developer.nvidia.com/cudnn-download-survey)
+<br /> •	cuDNN SDK 8.0.4: (This requires to sign up an account to access the download link-https://developer.nvidia.com/cudnn-download-survey)
 After downloading CUDA 10.1, add the folder `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1` as a system variable as shown in the picture below. <br/>
 ![alt text](https://github.com/Sturg25/Face_Mask_and_Physical_Distancing_Detection_System/blob/main/pictures/PATH.PNG?raw=true)
 
